@@ -13,6 +13,7 @@ function Intro() {
         <div className="text">
                <p>Hey There</p>
                <h1>I am Anshu Singh</h1>
+               <h1>hello</h1>
                <p>coder</p>
                     <div className="itemcontainer">
                     <span className="icons">
